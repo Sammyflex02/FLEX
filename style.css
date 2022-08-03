@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: lightblue;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin: 3rem;
+}
+
+.sub-card{
+    background: midnightblue;
+    padding: 3rem;
+    border-radius: 1rem;
+}
